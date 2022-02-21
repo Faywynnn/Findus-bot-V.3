@@ -1,0 +1,22 @@
+{
+  "name": "findus-bot-v.3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faywynnn/Findus-bot-V.3.git"
+  },
+  "author": "Faywynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faywynnn/Findus-bot-V.3/issues"
+  },
+  "homepage": "https://github.com/Faywynnn/Findus-bot-V.3#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
